@@ -25,4 +25,5 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Corey Sheldon (linux-modder)](https://github.com/linux-modder)
 - [Zoltan Orban (orbanz)](https://github.com/orbanz)
 - [Kyle Sowards (kjsowards)](https://github.com/kjsowards)
+- [Ilan Cohen (ilanco)](https://github.com/ilanco)
 - `[your-name (your-github-username)](https://github.com/your-github-username)`
