@@ -29,4 +29,5 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Gerard Sans (gsans)](https://github.com/gsans) \o/
 - [Rich McLaughlin (RichMcL)](https://github.com/RichMcL)
 - [Sandro Munda (SeyZ)](https://github.com/SeyZ)
+- [Byron Sommardahl (bsommardahl)](https://github.com/bsommardahl)
 - `[your-name (your-github-username)](https://github.com/your-github-username)`
