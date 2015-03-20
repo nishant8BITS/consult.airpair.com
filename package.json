@@ -1,0 +1,29 @@
+{
+  "name": "experts.airpair.com",
+  "version": "1.0.0",
+  "description": "Open Sourced front-end expert features of airpair.com",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-typescript": "^2.5.0",
+    "typescript": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airpair/experts.airpair.com.git"
+  },
+  "author": "airpair inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airpair/experts.airpair.com/issues"
+  },
+  "homepage": "https://github.com/airpair/experts.airpair.com"
+}
