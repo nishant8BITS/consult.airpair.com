@@ -1,10 +1,10 @@
 # Expert Mojo Endoint
 
-Mojo is how AirPair's matching algorithm matches experts against technolog tags 
+Mojo is how AirPair's matching algorithm matches experts against technology tags 
 and other customer specifications like price and availability. Mojo is comprised
 of 4 sub-scores.
 
-- Requirements (Tags)
+- Requirements (Tags, Level of Difficulty)
 - Experience (# of AirPairs, Feedback, Articles, Workshops)
 - Engagement (Reply rate, Frequency to airpair.com, Time online in Chat)
 - Social (GH followers / contributions, SO karma, IN Endorsements)
@@ -18,12 +18,15 @@ experience, engagement & social scores as well as sub scores describing the
 components that make up the top level scores.
 
 #### Examples
+
 ```
 // Get Experience, Engagement & Social scores
 /experts/mojo/me
 
-// Get all component scores with availability in the next 2 hours
-/experts/mojo/rank?tags=node.js&maxrate=150&minrate=100&availability=2hr
+// Get Experience, Engagement & Social + Requirements Score calculated  for
+// node.js with availability in the next 2 hours at $150/hr budget
+
+/experts/mojo/me?tags=node.js&rate=150&availability=2hr
 ```
 
 ### /experts/mojo/rank
@@ -36,8 +39,8 @@ experience, engagement & social scores.
 // Top ranked experts on AirPair
 /experts/mojo/rank
 
-// Top ranked experts for AngularJS & HTML5 (in order priority) with a rate between $90-$220
-/experts/mojo/rank?tags=angularjs,html5&maxrate=220&minrate=90
+// Top ranked experts for AngularJS & HTML5 (in order priority) with a budget of $90/hr
+/experts/mojo/rank?tags=angularjs,html5&rate=90
 ```
 
 ## POST
