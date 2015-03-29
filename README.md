@@ -30,4 +30,5 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Rich McLaughlin (RichMcL)](https://github.com/RichMcL)
 - [Sandro Munda (SeyZ)](https://github.com/SeyZ)
 - [Byron Sommardahl (bsommardahl)](https://github.com/bsommardahl)
+- [Sean Linsley (seanlinsley)](https://github.com/seanlinsley) :cat2:
 - `[your-name (your-github-username)](https://github.com/your-github-username)`
