@@ -31,4 +31,5 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Sandro Munda (SeyZ)](https://github.com/SeyZ)
 - [Byron Sommardahl (bsommardahl)](https://github.com/bsommardahl)
 - [Sean Linsley (seanlinsley)](https://github.com/seanlinsley) :cat2:
+- [Hector Zarco (zzarcon)](https://github.com/zzarcon) :dancers: 
 - `[your-name (your-github-username)](https://github.com/your-github-username)`
