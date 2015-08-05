@@ -33,3 +33,4 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Sean Linsley (seanlinsley)](https://github.com/seanlinsley) :cat2:
 - [Hector Zarco (zzarcon)](https://github.com/zzarcon) :dancers: 
 - [Olivia Hunter (ohunter1010)](https://github.com/ohunter1010)
+- [Thien Tran (duythien)](https://github.com/duythien)
