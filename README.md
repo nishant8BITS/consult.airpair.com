@@ -1,18 +1,38 @@
-# experts.airpair.com
+# consult.airpair.com
 
-Open Sourced front-end expert features of airpair.com
+Open Sourced consultants (expert) features of airpair.com
 
 ## Why
 
-We want to build a better airpair.com FASTER. Watch this repo and feel free to learn with us and give feedback as we merge pull requests. If you're interested in being paid to help code features, get active on this repo as a first step.
+We want to build a better airpair.com FASTER. Watch this repo and feel free to learn with us and give feedback as we merge pull requests.
 
 ## Tech
 
-The full version of airpair.com is written with the MEAN stack. This project will have no database component. Experts will be able to run the code against a staging server API.
+To start this project will look similar to the v1 airpair site (live Dec '14 - Oct '14') with nodeJS on the backend and Angular 1.3 on the front-end. The intent is to shortly move to Angular 2.0
 
-To start this project will look similar to the full airpair site with nodeJS on the backend and Angular 1.3 on the front-end. The intent is to shortly move onto Angular 2.0
+### Advanced MEAN-stack Series (inside airpair.com)
+
+This project will be covered by posts that explain how things fits together.
+
+JK's optimistic plan for this year includes:
+
+1. [https://www.airpair.com/javascript/posts/using-es6-harmony-with-nodejs](Using ES6 Harmony with NodeJS)
+1. [https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive](ExpressJS and PassportJS Sessions Deep Dive)
+1. (In draft) Testing MEAN-Stack w Production Data using MongoDB bulkWrite
+1. (In draft) How we screwed up & fixed our MEAN-stack Auth Implementation
+1. Tips & Techniques for Testing BIG MEAN-Stack Apps
+1. Semantic Middleware
+1. BIG Schema, SMALL Payloads: MongoDB & Express Data Patterns
+1. ES6 on NodeJS + Opinionated Terse JavaScript
+1. Lazy Loading Requires for SPPPEEED
+1. Hybrid Client-Server Template Architecture
+1. Optimizing Millions of Sessions, Including Dealing with Bots & Scrapers
+1. Browserify & Packaging Your App For Distribution
+1. Custom Analytics & AirPair's Real-Time *"God View"*
 
 ## Getting involved
+
+### To register interest
 
 Please create a pull request and add your name to this readme if you'd like to get involved in this project
 
@@ -34,3 +54,8 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Hector Zarco (zzarcon)](https://github.com/zzarcon) :dancers: 
 - [Olivia Hunter (ohunter1010)](https://github.com/ohunter1010)
 - [Thien Tran (duythien)](https://github.com/duythien)
+
+
+### Contrinuting workflow
+
+Haven't defined this yet, but I (@jk) am looking for a git mentor to help us establish best test / opensource practices.

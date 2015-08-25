@@ -1,0 +1,25 @@
+{
+  "name": "0.0.1",
+  "description": "Open Sourced consultants (expert) features of airpair.com",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "colors": "1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airpair/consult.airpair.com.git"
+  },
+  "author": "airpair inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airpair/consult.airpair.com/issues"
+  },
+  "homepage": "https://consult.airpair.com"
+}
