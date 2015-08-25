@@ -1,6 +1,6 @@
 # consult.airpair.com
 
-Open Sourced consultants (expert) features of airpair.com
+Open Sourced consultants (expert) sub-site of airpair.com
 
 ## Why
 
@@ -16,8 +16,8 @@ This project will be covered by posts that explain how things fits together.
 
 JK's optimistic plan for this year includes:
 
-1. [https://www.airpair.com/javascript/posts/using-es6-harmony-with-nodejs](Using ES6 Harmony with NodeJS)
-1. [https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive](ExpressJS and PassportJS Sessions Deep Dive)
+1. [Using ES6 Harmony with NodeJS](https://www.airpair.com/javascript/posts/using-es6-harmony-with-nodejs)
+1. [ExpressJS and PassportJS Sessions Deep Dive](https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive)
 1. (In draft) Testing MEAN-Stack w Production Data using MongoDB bulkWrite
 1. (In draft) How we screwed up & fixed our MEAN-stack Auth Implementation
 1. Tips & Techniques for Testing BIG MEAN-Stack Apps
@@ -34,7 +34,7 @@ JK's optimistic plan for this year includes:
 
 ### To register interest
 
-Please create a pull request and add your name to this readme if you'd like to get involved in this project
+Create a pull request and add your name to this readme if you'd like to get involved in this project
 
 - [Jonathon Kresner (jkresner)](https://github.com/jkresner)
 - [Anders D. Johnson (adjohnson916)](https://github.com/adjohnson916)
@@ -56,6 +56,17 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Thien Tran (duythien)](https://github.com/duythien)
 
 
-### Contrinuting workflow
+### Explore the guides
 
-Haven't defined this yet, but I (@jk) am looking for a git mentor to help us establish best test / opensource practices.
+The guides are a work in progress. Everyone is invited to contest, discuss and propose evolutions
+of the guide documents. We ask that you spend some time in the project and have made a contribution or
+two before getting heated up with man passioante suggestions.
+
+You will find fleshed out, draft and empty ideas around coding style, reporting bugs, submitting fixes and features in:
+
+````
+/docs/guides
+-----------/achitecture
+-----------/code
+-----------/contributing
+````

@@ -1,1 +1,0 @@
-*Css guide lines described here*
