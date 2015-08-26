@@ -54,6 +54,7 @@ Create a pull request and add your name to this readme if you'd like to get invo
 - [Hector Zarco (zzarcon)](https://github.com/zzarcon) :dancers: 
 - [Olivia Hunter (ohunter1010)](https://github.com/ohunter1010)
 - [Thien Tran (duythien)](https://github.com/duythien)
+- [Nishant Kumar (nihant8BITS)](https://github.com/nishant8BITS)
 
 
 ### Explore the guides
